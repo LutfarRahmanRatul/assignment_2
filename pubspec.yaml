@@ -1,0 +1,10 @@
+flutter:
+  assets:
+    - assets/js.png
+    - assets/python.png
+    - assets/flutter.png
+    - assets/php.png
+    - assets/dotnet.png
+    - assets/sqa.png
+    - assets/devops.png
+    - assets/interview.png
